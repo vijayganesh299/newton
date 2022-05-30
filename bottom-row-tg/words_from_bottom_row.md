@@ -165,6 +165,7 @@ activity
 actor
 actress
 actual
+appoint
 actually
 addition
 additional
@@ -335,6 +336,17 @@ benefit
 beside
 besides
 best
+housing 
+stability 
+stable 
+table 
+learn 
+outstanding 
+skinned  
+kangal 
+kangaroo  
+pollution 
+island
 bet
 better
 between
@@ -789,6 +801,8 @@ discipline
 discourse
 discover
 discovery
+disability
+detect
 discrimination
 discuss
 discussion
