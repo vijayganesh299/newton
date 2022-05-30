@@ -38,7 +38,6 @@ always
 apart
 appeal
 appear
-appoint
 apply
 apple
 appropriate
@@ -98,7 +97,6 @@ despite
 destroy
 detail
 detailed
-detect
 dialogue
 die
 diet
@@ -107,7 +105,6 @@ dig
 digital
 dirt
 dirty
-disability
 disagree
 disappear
 disaster
@@ -279,7 +276,6 @@ hotel
 hour
 house
 household
-housing
 how
 huge
 hypothesis
@@ -291,7 +287,6 @@ ideal
 ill
 illegal
 illustrate
-island
 issue
 itself
 jail
@@ -414,7 +409,6 @@ pole
 poll
 polar
 popular
-pollution
 poor
 pop
 popular
@@ -621,8 +615,6 @@ sport
 spot
 spread
 square
-stability
-stable
 staff
 stage
 stair
@@ -680,7 +672,6 @@ surprised
 swear
 sweep
 sweet
-table
 tail
 take
 tale
@@ -897,8 +888,6 @@ sheepdog
 terrier
 squirrel
 jaguar
-kangaroo
-kangal
 kakapo
 kiwi
 koala
@@ -993,8 +982,7 @@ sigh
 judge
 wrasse
 yak
-fair 
-skinned 
+fair  
 dog 
 fur
 hard 
@@ -1076,7 +1064,6 @@ hut
 surf
 feel
 hype 
-learn
  type
 away
 always 
@@ -1104,7 +1091,6 @@ goose
 lasso 
 ostrich 
 owl 
-outstanding
 off 
 sheep
 you 
